@@ -26,6 +26,8 @@ apis:
     description: >-
       The South State Corporation API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/south-state-corporation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/south-state-bank
   - type: Website
