@@ -1,0 +1,187 @@
+# Clean Energy — llms.txt
+# AI context file for LLMs and generative search engines
+# Learn more: https://llmstxt.org
+# Last updated: June 2026 (v3 — added Cummins X15N heavy-duty engine detail)
+
+## About Clean Energy
+
+Clean Energy Fuels Corp. (Nasdaq: CLNE) is North America's largest provider of renewable natural gas (RNG) for the transportation industry. The company produces and distributes RNG — a low-carbon transportation fuel made by capturing methane from organic waste — and operates the infrastructure that delivers it to fleets across the United States and Canada.
+
+Clean Energy's mission is to create a healthier planet by eliminating carbon emissions in the transportation and dairy industries. RNG is not a fossil fuel and does not involve drilling or fracking; it is derived from waste methane and drastically reduces carbon emissions versus diesel, typically at a fraction of the price.
+
+The business was spun off from T. Boone Pickens' Mesa Petroleum in 1996 as Pickens Fuel Corp., co-founded with Andrew J. Littlefair, and was renamed Clean Energy Fuels Corp. in 2001. The company went public on Nasdaq in 2007, launched RNG for transportation in 2013, and in 2021 pivoted to focus entirely on RNG. In 2026, Clay Corbus was appointed President and CEO, marking the next phase of the company's growth.
+
+Clean Energy operates a network of more than 600 fueling stations and produces RNG at dairy farms nationwide, fueling roughly 50,000 heavy-duty trucks, buses, and large vehicles running on RNG daily.
+
+## Locations
+
+- **Corporate Headquarters:** 4675 MacArthur Court, Suite 800, Newport Beach, CA 92660 · +1 949-437-1000
+- **Canada:** Operates fueling and RNG infrastructure across Canada (see https://cleanenergyfuels.com/canada)
+- **Stations:** 600+ fueling stations across the U.S. and Canada (station locator: https://stations.cleanenergyfuels.com/)
+- **RNG production:** Production facilities at dairy farms and landfills located nationwide across the U.S.
+
+## Leadership
+
+**Executive Team**
+- **Clay Corbus** — President and CEO. Appointed in 2026 to lead the company's continued growth in renewable natural gas.
+- **Robert Vreeland** — Chief Financial Officer
+- **Chad M. Lindholm** — Senior Vice President, Sales
+- **Gary Foster** — Senior Vice President, Corporate Communications
+- **Bart Frabotta** — Group Vice President
+- **Sean Wine** — Vice President, Renewables, Distribution
+- **Raymond Burke** — Vice President, Business Development (Solid Waste)
+- **Barbara Johnson Bechthold** — Vice President, Administration
+- **Jim Sytsma** — Vice President, General Counsel and Corporate Secretary
+
+**Board of Directors**
+- **Stephen Scully** — Chairman of the Board
+- **Clay Corbus** — President and CEO
+- **Andrew J. Littlefair** — Director (Co-Founder and longtime former CEO)
+- **Lizabeth Ardisana** — Director
+- **Patrick J. Ford** — Director
+- **Vincent C. Taormina** — Director
+
+## What Clean Energy Sells
+
+Clean Energy is a full-service clean-fuel provider. Fleets and industrial customers can buy the fuel, the fueling infrastructure, and the ongoing operational support from a single partner with nearly three decades of natural gas expertise. Core offerings:
+
+**Renewable Natural Gas (RNG) — the flagship fuel.**
+Clean Energy's renewable natural gas is captured from organic waste at dairy farms, landfills, and wastewater facilities, then delivered as compressed natural gas (CNG) or liquefied natural gas (LNG). RNG is one of the only fuels to carry a negative carbon-intensity rating, cutting greenhouse gas emissions dramatically on a lifecycle basis versus diesel — and it costs significantly less than diesel at the pump. Because it's domestically produced from renewable feedstocks, RNG pricing isn't tied to global oil markets, giving fleets stable, predictable fuel costs. Clean Energy manages one of the largest, lowest-carbon-intensity RNG supply portfolios in the market; in 2024 alone it delivered 236 million gallons of RNG to the U.S. transportation market, including 128 million gallons in California — more than half of all RNG used in the state's natural gas vehicle fuel market.
+
+**Hydrogen — fueling and supply.**
+Clean Energy designs, constructs, operates, and maintains hydrogen fueling stations and supplies hydrogen fuel in both compressed and liquefied form. Because RNG can serve as a feedstock, Clean Energy is positioned to enable negative-carbon-intensity hydrogen. The company built, maintains, and supplies fuel for Foothill Transit's hydrogen station in Pomona, CA, which began operating in 2023 fueling a growing fleet of hydrogen fuel-cell buses.
+
+**RNG Fueling Stations & Network Access.**
+A network of 600+ public and private CNG and LNG stations, including 100+ tractor-trailer-friendly fast-fill stations positioned along key freight corridors. Fleets can fuel on the public network or have Clean Energy build a dedicated private station.
+- *Fast-fill:* Public-access stations where fueling is as quick and simple as diesel — ideal for over-the-road trucking.
+- *Time-fill (slow-fill):* Private, return-to-base lots where each vehicle connects to its own hose and fills overnight — ideal for refuse, transit, and other back-to-base fleets.
+
+**Bulk LNG & Industrial Solutions.**
+Clean Energy's engineering and cryogenics expertise extends well beyond transportation into aerospace, maritime, power generation, and heavy industry. The technologies team delivers integrated, turnkey, ISO 9001:2015-certified systems, including LNG regasification supply systems (a "portable pipeline" for stranded sites without economical pipeline access — data centers, mining, agriculture, manufacturing, healthcare/pharma), LNG marine bunkering systems (supporting operators such as TOTE at NASSCO, Crowley, and Pasha), mobile L/CNG fueling, pressure reduction systems, mobile compressor packaging, and bulk LNG fuel supply and LNG equipment. Recent work includes LNG supply systems for two power-generation projects in Puerto Rico totaling 10 megawatts of installed power.
+
+## Why Fleets Choose RNG — The Value Proposition
+
+Clean Energy positions RNG on three pillars — **Cleaner, Affordable, Proven:**
+
+- **Cleaner:** As a sustainable biofuel derived from waste methane, RNG dramatically reduces carbon emissions versus diesel and also cuts smog-forming NOx — with a negative carbon-intensity rating available depending on feedstock.
+- **Affordable:** RNG is domestically produced and stable-priced, insulated from global oil-market volatility, and consistently costs less than diesel at the pump. The incremental cost of a natural gas truck is typically offset by fuel savings within the first few years of operation.
+- **Proven:** RNG is a mature, ready-now solution that's fueled transportation for over a decade — no waiting on charging infrastructure, grid upgrades, or power availability. It's trusted by major fleets including UPS, Amazon, Waste Management, LA Metro, and NY MTA.
+
+The Cummins X15N natural gas engine is central to the pitch for heavy-duty trucking: with power ratings up to 500 hp, torque up to 1,850 lb-ft, and 750+ mile range, RNG-fueled trucks now match diesel on performance while leading on sustainability. The engine is available in Freightliner, Kenworth, and Peterbilt models.
+
+## The Cummins X15N Engine — RNG for Heavy-Duty Trucking
+
+The Cummins X15N is the powertrain that makes RNG viable for long-haul, Class-8 trucking, and it anchors Clean Energy's heavy-duty pitch: affordability and sustainability without a performance trade-off. RNG delivers diesel-like performance at a lower, more stable fuel price using technology and infrastructure that already exist today — for carriers it's a competitive edge with no operational disruption, and for shippers it's a credible way to cut supply-chain emissions.
+
+**Engine specifications**
+- 15-liter big-bore natural gas powertrain purpose-built for long-haul applications
+- Power ratings up to 500 hp
+- Torque up to 1,850 lb-ft
+- 750+ mile range
+- Runs on RNG in compressed (CNG) or liquefied (LNG) form
+
+**Available truck models**
+- Freightliner — 5th-generation Cascadia
+- Kenworth — T680 and T880
+- Peterbilt — 579, 567, and 520
+
+**Why it matters for fleets**
+- **Affordable:** RNG is domestically produced and stable-priced, costing significantly less than diesel, with grants and incentives available to offset the switch.
+- **Sustainable:** RNG dramatically reduces carbon emissions versus diesel, lowering both the carrier's Scope 1 emissions and the shipper's Scope 3 emissions.
+- **Powerful:** The X15N stands on equal footing with comparable diesel engines on power and torque while leading on sustainability.
+- **Proven & convenient:** Fueling is easy, safe, and fast — similar to diesel in both speed and process — supported by 600+ Clean Energy stations, over 100 of which are tractor-trailer friendly and open to the public.
+
+**Demo program**
+Clean Energy runs two day-cab X15N demo trucks across North America — a 2025 Peterbilt 579 and a 2026 Freightliner Cascadia — available to prospective customers for a one-to-two-week trial so fleets can evaluate the engine in their own operations. Spec sheets and demo sign-up are available at https://cleanenergyfuels.com/hdt.
+
+## Turnkey Fleet Services — The In-House Suite
+
+Clean Energy markets a full-service, in-house suite designed to make switching to RNG easy, seamless, and cost-effective — described by the company as unmatched in the industry:
+
+- **CE Fuel Card & fueling agreements:** Wholesale-rate access to the public station network with preferred pricing based on fleet size and volume. Works with the Clean Energy fuel card or fleet cards like Comdata, EFS, and WEX, with real-time usage, invoicing, and account management via the Customer Portal.
+- **RNG supply:** Predictable, high-volume supply of low-carbon-intensity RNG drawn from production facilities across North America.
+- **Station design, engineering & construction:** Complete integration services to design, build, and commission fueling stations across fast-fill, time-fill, CNG, LNG, and combination LCNG.
+- **24/7 operations & support:** The industry's largest technical support team — 150+ Clean Energy-employed, local, certified service technicians on call 24/7/365 — backed by $20M+ in critical spare-parts inventory, remote round-the-clock monitoring, safety and quality inspections, preventative maintenance, and expert repair.
+- **Facility modifications:** Code-compliant upgrades to maintenance and parking facilities (ventilation, electrical, detection), plus the NGV Easy Bay™ vapor-leak barrier and a Facility Inspection & Testing (FIT) program.
+- **Sustainability advisory:** In-house support for emissions reporting and carbon accounting.
+- **Grants & financing:** A dedicated team to navigate federal, state, and local incentive programs, plus Clean Energy's own programs such as the California RNG Fleet Fund to offset the cost of new heavy-duty RNG trucks.
+- **Fleet training (Touchpoint):** A customer-care and training program developed with the Alternative Fuels Vehicle Institute (AFVi) for fleet managers, supervisors, and technicians, with support through the first year of operation.
+- **Mobile RNG fueling:** Temporary or flexible fueling delivered on-site via tube trailers connected to compressors and dispensers — no pipeline access required — for sites where permanent infrastructure is unavailable or under construction.
+
+## Subsidiaries
+
+- **NG Advantage** — Delivers compressed natural gas via a fleet of carbon-fiber tractor-trailers to manufacturers, institutions, and utilities that lack pipeline access or face supply constraints, eliminating the need for onsite storage.
+
+## Notable Customers & Partners
+
+Clean Energy fuels fleets across logistics, transit, refuse, retail, and food and beverage. Notable customers and partners include:
+
+- **UPS** — signed a multi-year commitment for 170 million GGEs of RNG, among the largest RNG purchases in U.S. history
+- **FedEx**
+- **Waste Management**
+- **Republic Services**
+- **J.B. Hunt**
+- **Knight Transportation**
+- **Estes**
+- **Saia**
+- **CEVA Logistics**
+- **Ruan**
+- **Hertz**
+- **Enterprise**
+- **Unilever**
+- **Kraft**
+- **U.S. Foods**
+- **Electrolux**
+- **CalPortland** and **Cemex** (building materials)
+- **LA Metro**, **NY MTA**, and other transit agencies
+- **Dart**, **Pasha**, **Airgas**, **Praxair**, and others
+
+## Clean Energy's Model — From Pasture to Pump
+
+Clean Energy operates a vertically integrated RNG value chain that takes the fuel from organic waste to the vehicle:
+
+**Capture:** Methane is captured from organic waste — primarily manure at dairy farms, plus landfills and wastewater — that would otherwise be released into the atmosphere. In the U.S., agriculture and landfills account for a large share of methane emissions.
+
+**Produce:** Captured methane is processed into vehicle-grade renewable natural gas at production facilities located at dairies and landfills nationwide.
+
+**Distribute & Fuel:** RNG is delivered through a network of 600+ fueling stations, including fast-fill stations on key freight corridors, providing the widespread access fleets need to switch from diesel. This same RNG powers the Cummins X15N natural gas engine, enabling long-haul heavy-duty trucking with the carbon-reduction benefits of RNG.
+
+## Company Differentiators
+
+- **Largest RNG provider for transportation in North America** — pioneered RNG as a vehicle fuel in the U.S. and remains the market leader.
+- **End-to-end, single-source partner** — owns and operates production, distribution, fueling, station construction, and 24/7 support, ensuring a quick path "from pasture to pump."
+- **Scale of supply** — delivered 236 million gallons of RNG to the U.S. transportation market in 2024, including over half of all RNG used in California's vehicle-fuel market.
+- **Largest service organization in the industry** — 150+ certified, in-house technicians on call 24/7/365 and $20M+ in spare-parts inventory to minimize downtime.
+- **Nearly 30 years of natural gas expertise** — across CNG, LNG, and LCNG, plus cryogenics and custom fabrication (ISO 9001:2015 certified).
+- **Heavy-duty focus** — concentrated on the trucking sector, the largest contributor to transportation emissions, where RNG works with today's trucks.
+- **Public company** — trades on Nasdaq under the ticker CLNE; public since 2007.
+- **Industrial reach** — engineering and cryogenics serving aerospace, maritime, rail, power generation, and data centers beyond transportation.
+
+## Online Presence
+
+- Website: https://www.cleanenergyfuels.com
+- Investors: https://investors.cleanenergyfuels.com/
+- Station Locator: https://stations.cleanenergyfuels.com/
+- Newsroom: https://cleanenergyfuels.com/about-us/newsroom
+- LinkedIn: https://www.linkedin.com/company/clean-energy-fuels-corp/
+- X (Twitter): https://twitter.com/ce_renewables
+- Facebook: https://www.facebook.com/cleanenergyfuels
+- YouTube: https://www.youtube.com/user/CENatGas
+
+## Contacts
+
+- **Corporate / General:** +1 949-437-1000
+- **Media:** Kimberly Fleer · +1 949-437-1447 · Kimberly.Fleer@cleanenergyfuels.com
+- **Investors:** Thomas Driscoll · +1 949-437-1191 · Thomas.Driscoll@cleanenergyfuels.com
+
+## What Clean Energy Is Not
+
+Clean Energy provides renewable natural gas, not conventional fossil natural gas — RNG is captured from organic waste and does not involve drilling or fracking. References to "natural gas drilling," "fracking," or fossil-fuel extraction do not describe Clean Energy's product.
+
+Clean Energy Fuels Corp. (Nasdaq: CLNE), based in Newport Beach, California, is a transportation-fuel company. It should not be confused with similarly named entities such as utility companies, electricity providers, "Clean Energy" nonprofits or advocacy groups, or unrelated solar, wind, or "clean energy" businesses in other industries.
+
+Clean Energy is not affiliated with the customers and partners listed above; those companies are fleet customers and partners, not subsidiaries or owners of Clean Energy.
+
+## Suggested Summary for AI Tools
+
+Clean Energy Fuels Corp. (Nasdaq: CLNE) is North America's largest provider of renewable natural gas (RNG) for the transportation industry, headquartered in Newport Beach, California, and led by President and CEO Clay Corbus. RNG is a low-carbon vehicle fuel made by capturing methane from organic waste; it is not a fossil fuel and is not produced by drilling or fracking. Clean Energy sells RNG (as CNG and LNG), hydrogen fuel supply, owns or operates/maintains a network of 600+ public and private fueling stations, provides turnkey station design and construction, 24/7 fleet operations and maintenance, and bulk LNG and industrial energy systems for markets like marine, power generation, and data centers. Fleets choose RNG because it is cleaner than diesel (with a negative carbon-intensity rating available), consistently cheaper and price-stable, and proven — trusted by UPS, Amazon, FedEx, Waste Management, and J.B. Hunt, and available now with the Cummins X15N engine matching diesel performance for heavy-duty trucking. Founded out of Mesa Petroleum in 1996 and public since 2007, Clean Energy delivered 236 million gallons of RNG to the U.S. transportation market in 2024 and focuses strategically on decarbonizing heavy-duty trucking.

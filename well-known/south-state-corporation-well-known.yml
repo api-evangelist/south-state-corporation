@@ -1,0 +1,63 @@
+generated: '2026-09-17'
+method: probed
+source: live GET of /.well-known/* on every host the record knows (apex, www, the API and developer hosts), User-Agent Mozilla/5.0
+note: >-
+  No well-known document is served. www.southstatebank.com answers 404 on every /.well-known/ path
+  (the same origin serves /llms.txt and /robots.txt, so the 404s are real, not a bot challenge);
+  southstatebank.com 301s every path to www. developer.southstatebank.com and api.southstatebank.com
+  do not resolve in DNS (status 0). No WellKnown or SecurityTxt pointer is emitted because nothing hit.
+hosts:
+- host: www.southstatebank.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/oauth-protected-resource
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /.well-known/agent-card.json
+    status: 404
+  - path: /.well-known/agent.json
+    status: 404
+- host: southstatebank.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 301
+    note: redirects to https://www.southstatebank.com/.well-known/security.txt (404)
+  - path: /.well-known/openid-configuration
+    status: 301
+    note: redirects to www (404)
+  - path: /.well-known/oauth-authorization-server
+    status: 301
+    note: redirects to www (404)
+  - path: /.well-known/api-catalog
+    status: 301
+    note: redirects to www (404)
+  - path: /.well-known/ai-plugin.json
+    status: 301
+    note: redirects to www (404)
+  - path: /.well-known/agent-card.json
+    status: 301
+    note: redirects to www (404)
+- host: developer.southstatebank.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 0
+    note: host does not resolve (NXDOMAIN)
+  - path: /.well-known/agent-card.json
+    status: 0
+    note: host does not resolve (NXDOMAIN)
+- host: api.southstatebank.com
+  documents:
+  - path: /.well-known/openid-configuration
+    status: 0
+    note: host does not resolve (NXDOMAIN)
+  - path: /.well-known/agent-card.json
+    status: 0
+    note: host does not resolve (NXDOMAIN)

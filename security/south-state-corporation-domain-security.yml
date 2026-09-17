@@ -1,11 +1,11 @@
-generated: '2026-07-11'
+generated: '2026-09-17'
 method: probed
 source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
 hosts:
 - host: www.southstatebank.com
   https: true
   tls_version: TLSv1.2
-  cert_expires: Aug 13 03:43:23 2026 GMT
+  cert_expires: Dec  9 05:06:15 2026 GMT
   hsts: true
   hsts_max_age: 31536000
 - host: developer.southstatebank.com
