@@ -1,6 +1,6 @@
 aid: south-state-corporation
 url: https://raw.githubusercontent.com/api-evangelist/south-state-corporation/refs/heads/main/apis.yml
-name: South State Corporation
+name: South State
 type: Index
 kind: company
 deliveryModel:
@@ -32,7 +32,7 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/south-state-corporation.png
 tags:
   - Banking
-  - Financial-Services
+  - Financial Services
   - Regional Bank
   - Treasury Management
   - Fortune 1000
@@ -44,6 +44,7 @@ tags_raw:
   - Treasury Management
   - Fortune 1000
   - SEC EDGAR
+  - Financial-Services
 description: >-
   South State Corporation — now SouthState Bank Corporation (NYSE: SSB), the Winter Haven, Florida holding
   company for SouthState Bank, N.A. — is a Fortune 1000 regional bank serving consumer, mortgage, small
@@ -151,3 +152,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 2
   pass: local-v3
+x-legal-name: South State Corporation
