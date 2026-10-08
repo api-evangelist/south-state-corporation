@@ -98,6 +98,8 @@ apis:
         in FL, with former names SouthState Corp (2021-09-15 to 2025-08-28) and SOUTH STATE Corp
         (2014-07-03 to 2021-09-03); most recent filing dated 2026-08-27.
 common:
+  - type: FinOps
+    url: finops/south-state-corporation-finops.yml
   - type: TermsOfService
     url: https://www.southstatebank.com/global/help/terms-of-use
   - type: Website
