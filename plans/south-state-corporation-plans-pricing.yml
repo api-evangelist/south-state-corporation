@@ -1,0 +1,64 @@
+specification: API Commons Plans
+specificationVersion: '0.1'
+schema: https://raw.githubusercontent.com/api-evangelist/interface-research/main/schema/api-commons.yml#/$defs/Plans
+provider: South State Corporation
+providerId: south-state-corporation
+created: '2026-05-04'
+# Provenance stamped 2026-08-11: this artifact was written by the API Evangelist
+# bulk sweep dated 2026-05-04, not harvested from the provider. See roadmap#35.
+method: generated
+modified: '2026-05-05'
+reconciled: false
+tags:
+  - Banking
+  - Financial Services
+description: South State Corporation is a regional U.S. bank holding company (parent of South State Bank,
+  N.A.). It operates a member-facing retail / commercial banking site and does not publish a public developer
+  API or partner API plan SKU. Account-pricing schedules (deposit, lending, treasury management) are
+  product disclosures, not API plans.
+sources:
+  - https://www.southstatebank.com/
+notes: South State does not publish a public developer API or plan tiers; southstatebank.com/business/api
+  returns 403/404 to automated retrieval and no api.southstatebank.com developer portal is publicly listed.
+  Treasury management and partner integrations are negotiated bilaterally. Trimmed to a single Contact
+  Sales placeholder; reconciled is false.
+plans:
+  - id: south-state-corporation-contact-sales
+    name: Contact Sales
+    type: enterprise
+    description: South State has no public developer plan. Treasury Management / Cash Management API integrations
+      and any partner / fintech connectivity are negotiated through the bank's commercial banking team
+      under bilateral agreement.
+    entries:
+      - label: Treasury / Partner Integration
+        name: treasury_partner_integration
+        type: subscription
+        metric: varies
+        limit: -1
+        timeFrame: usage
+        geo: US
+        unit: 1
+        price: contact sales
+        userMultiplied: false
+    elements:
+      - name: South State Bank Commercial Banking
+      - name: Treasury Management Services
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+x-canonical:
+  generated: '2026-11-01'
+  vocabulary: engine/economics/plans-canonical.yml
+  models:
+  - subscription
+  units:
+  - negotiated
+  plans:
+  - name: Contact Sales
+    access: enterprise
+    model: subscription
+    model_how: derived
+    units:
+    - negotiated
+    periods:
+    - per-use
